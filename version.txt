@@ -1,4 +1,2 @@
-cony/176
-brown/175
-black/180
-white/170
+minVersion/205
+maxVersion/310
